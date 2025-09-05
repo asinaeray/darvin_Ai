@@ -1,0 +1,14 @@
+kütüphaneler:
+pip install google-generativeai
+pip install python-dotenv
+
+sanal ortam:
+python -m venv venv
+
+sanal kısıtlama kaldırma:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+dosya dizini:
+cd C:\Users\ASUS\Desktop\Chatbot
+.\venv\Scripts\Activate.ps1
+
